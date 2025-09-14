@@ -1,6 +1,9 @@
 build*/
-firmware*/
-managed_componenets/
+firmware/
+managed_components/
 sdkconfig.old
 sdkconfig
 compile_commands.json
+.clangd
+dependencies.lock
+.vscode/settings.json
