@@ -1,4 +1,5 @@
 build*/
+firmware*/
 managed_componenets/
 sdkconfig.old
 sdkconfig

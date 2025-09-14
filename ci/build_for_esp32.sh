@@ -4,7 +4,7 @@
 
 set -eo pipefail
 
-targets="esp32 esp32s2 esp32c3"
+targets="esp32 esp32s2 esp32c3 esp32s3"
 
 for t in $targets; do
   idf.py fullclean
